@@ -1,3 +1,7 @@
+# Parallelizing the Wikipedia search engine
+
+
+
 Small project for the Parallelism and Distribution course.
 Parallel search of a large database and sorting of the results.
 
