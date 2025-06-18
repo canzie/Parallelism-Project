@@ -1,0 +1,5 @@
+out/
+data/
+runtimes/
+
+!data/presets/dataset1/minimal.json
